@@ -1,0 +1,11 @@
+[{
+	"title":"Gloves",
+	"path":"gloves.json"
+},{
+	"title":"Jerseys",
+	"path":"jerseys.json"
+},{
+	"title":"Shoes",
+	"path":"shoes.json"
+}
+]

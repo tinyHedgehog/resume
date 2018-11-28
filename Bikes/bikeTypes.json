@@ -1,0 +1,11 @@
+[{
+	"title":"Cross country",
+	"path":"crossCountry.json"
+},{
+	"title":"Trail",
+	"path":"trail.json"
+},{
+	"title":"Mountain bikes",
+	"path":"mtb.json"
+}
+]

@@ -1,0 +1,164 @@
+[{
+	"title":"Top Fuel 9.9 SL",
+	"category":"Bikes",
+	"price":9299,
+	"date":"2018.10.10",
+	"img":"img/trek_store/bikes/topFuel99.png"
+},{
+	"title":"Procaliber 9.9 SL",
+	"category":"Bikes",
+	"price":8249,
+	"date":"2018.10.10",
+	"img":"img/trek_store/bikes/procaliber99.png"
+},{
+	"title":"Procaliber 9.7",
+	"category":"Bikes",
+	"price":3779,
+	"date":"2018.10.10",
+	"img":"img/trek_store/bikes/procaliber97.png"
+},{
+	"title":"Session 9.9 29",
+	"category":"Bikes",
+	"price":6849,
+	"date":"2018.10.10",
+	"img":"img/trek_store/bikes/session99.png"
+},{
+	"title":"Fuel EX 9.8 29",
+	"category":"Bikes",
+	"price":5449,
+	"date":"2018.10.10",
+	"img":"img/trek_store/bikes/fuelex9829.png"
+},{
+	"title":"Farley 9.8",
+	"category":"Bikes",
+	"price":4749,
+	"date":"2018.10.10",
+	"img":"img/trek_store/bikes/farley98.png"
+},{
+	"title":"Slash 9.9",
+	"category":"Bikes",
+	"price":5799,
+	"date":"2018.10.10",
+	"img":"img/trek_store/bikes/slash99.png"
+},{
+	"title":"Romedy 9.7",
+	"category":"Bikes",
+	"price":3849,
+	"date":"2018.10.10",
+	"img":"img/trek_store/bikes/romedy97.png"
+},{
+	"title":"Full Stashe 8",
+	"category":"Bikes",
+	"price":4449,
+	"date":"2018.10.10",
+	"img":"img/trek_store/bikes/fullstache8.png"
+},{
+	"title":"Bontrager Cambion Mountain Shoe",
+	"category":"Shoes",
+	"price":229,
+	"date":"2018.10.10",
+	"img":"img/trek_store/shoes/cambion.png"
+},{
+	"title":"Bontrager Foray Mountain Shoe",
+	"category":"Shoes",
+	"price":149,
+	"date":"2018.10.10",
+	"img":"img/trek_store/shoes/foray.png"
+},{
+	"title":"Bontrager Katan Mountain Shoe",
+	"category":"Shoes",
+	"price":119,
+	"date":"2018.10.10",
+	"img":"img/trek_store/shoes/katan.png"
+},{
+	"title":"Bontrager Evoke Thermal Long Sleeve Cycling Jersey",
+	"category":"Jerseys",
+	"price":69,
+	"date":"2018.10.10",
+	"img":"img/trek_store/jerseys/evokeJ.png"
+},{
+	"title":"Bontrager Velocis Endurance Cycling Jersey",
+	"category":"Jerseys",
+	"price":55,
+	"date":"2018.10.10",
+	"img":"img/trek_store/jerseys/velocis.png"
+},{
+	"title":"Bontrager Lithos Mountain Bike Tech Tee",
+	"category":"Jerseys",
+	"price":45,
+	"date":"2018.10.10",
+	"img":"img/trek_store/jerseys/lithosJ.png"
+},{
+	"title":"Bontrager Lithos Full-Finger Mountain Glove",
+	"category":"Gloves",
+	"price":23,
+	"date":"2018.10.10",
+	"img":"img/trek_store/gloves/lithos.png"
+},{
+	"title":"Bontrager Quantum Full-Finger Mountain Glove",
+	"category":"Gloves",
+	"price":18,
+	"date":"2018.10.10",
+	"img":"img/trek_store/gloves/quantum.png"
+},{
+	"title":"Bontrager Evoke Women's Full-Finger Mountain Glove",
+	"category":"Gloves",
+	"price":20,
+	"date":"2018.10.10",
+	"img":"img/trek_store/gloves/evoke.png"
+},{
+	"title":"Bontrager Circuit MIPS Road Bike Helmet",
+	"category":"Helmets",
+	"price":89,
+	"date":"2018.10.10",
+	"img":"img/trek_store/helmets/circuit.png"
+},{
+	"title":"Bontrager Rally MIPS Mountain Bike Helmet",
+	"category":"Helmets",
+	"price":75,
+	"date":"2018.10.10",
+	"img":"img/trek_store/helmets/rally.png"
+},{
+	"title":"Bontrager Starvos MIPS Road Bike Helmet",
+	"category":"Helmets",
+	"price":65,
+	"date":"2018.10.10",
+	"img":"img/trek_store/helmets/starvos.png"
+},{
+	"title":"Bontrager Hodag Fat Bike Tire",
+	"category":"Tires",
+	"price":89,
+	"date":"2018.10.10",
+	"img":"img/trek_store/tires/hodag.png"
+},{
+	"title":"Bontrager Barbegazi Fat Bike Tire",
+	"category":"Tires",
+	"price":79,
+	"date":"2018.10.10",
+	"img":"img/trek_store/tires/barbe.png"
+},{
+	"title":"Bontrager SE2 Team Issue TLR MTB Tire",
+	"category":"Tires",
+	"price":69,
+	"date":"2018.10.10",
+	"img":"img/trek_store/tires/se2.png"
+},{
+	"title":"Bontrager Line Plus Boost TLR 29 MTB Wheel",
+	"category":"Wheels",
+	"price":149,
+	"date":"2018.10.10",
+	"img":"img/trek_store/wheels/tlr29.png"
+},{
+	"title":"Bontrager Line XXX Boost TLR 27.5 MTB Wheel",
+	"category":"Wheels",
+	"price":149,
+	"date":"2018.10.10",
+	"img":"img/trek_store/wheels/tlr275.png"
+},{
+	"title":"Bontrager Line Pro 30 TLR Boost 27.5 MTB Wheel",
+	"category":"Wheels",
+	"price":149,
+	"date":"2018.10.10",
+	"img":"img/trek_store/wheels/pro30.png"
+}
+]
