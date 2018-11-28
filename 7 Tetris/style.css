@@ -1,0 +1,122 @@
+body {
+	margin: 5px;
+	background-color: black;
+	font-family: Arial;
+	text-align: center;
+	overflow: hidden;
+}
+
+/*----------tetris----------*/
+
+#container3 {
+	display: inline-block;
+	margin: 0;
+	padding: 5px;
+	background-image: linear-gradient(rgb(119,229,215) 1%,rgb(8,187,169));
+	border-radius: 40px;
+	width: 500px;
+	height: 600px;
+}
+
+#container2 {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+
+	border-top: 30px solid rgb(32,160,160);
+	border-left: 30px solid rgb(35,160,145);
+	border-right: 30px solid rgb(102,202,190);
+	border-bottom: 30px solid rgb(102,202,190);
+	border-radius: 5px;
+
+	height: 434px;
+}
+
+#container1 {
+	margin: 0;
+	padding: 0;
+
+	border-top: 3px solid rgb(20,100,95);
+	border-left: 3px solid rgb(20,100,95);
+	border-right: 3px solid rgb(146,230,232);
+	border-bottom: 3px solid rgb(146,230,232);
+
+	height: 428px;
+}
+
+#tetris {
+	display: inline-block;
+	margin: 0;
+
+	font-size: 30px;
+	font-weight: bold;
+	font-family: Arial Black;
+
+	color: rgb(255,180,10);
+}
+
+
+/*----------sidebar----------*/
+
+.sideBar {
+	display: inline-block;
+	position: relative;
+	bottom: 282px;
+
+	margin: 0;
+	padding: 10px;
+	list-style: none;
+	background-color: rgb(150,165,140);
+	color: rgb(30,30,30);
+
+	height: 408px;
+	width: 80px;
+}
+.text {
+	margin: 0;
+	padding: 0;
+	height: 20px;
+}
+
+#nextTable {
+	height: 30px;
+	border: none;
+}
+
+#nextElementCell {
+	width: 10px;
+	height: 10px;
+}
+
+
+/*----------field----------*/
+table {
+	display: inline-block;
+
+	padding: 3px;
+	background-color: rgb(150,165,140);
+	
+	border-right: 1px solid rgb(30,30,30);
+	border-bottom: none;
+	border-top: none;
+	border-left: none;
+}
+
+.field {
+	margin: 0px;
+	padding: 0px;
+	width: 15px;
+	height: 15px;
+
+	border: 2px solid rgb(123,132,103);
+	border-collapse: collapse;
+
+	background-image: radial-gradient(rgb(123,132,103) 35%, rgb(159,168,141));
+}
+
+td.colored {
+	border-width: 2px;
+	border-color: rgb(30,30,30);
+
+	background-image: radial-gradient(rgb(30,30,30) 35%, rgb(123,132,103));
+}

@@ -1,0 +1,107 @@
+p{
+	margin: auto;
+	font-family: cursive;
+	text-align: center;
+	position: relative;
+	
+}
+
+table{
+	margin: auto;
+	font-family: cursive;
+	text-align: center;
+  	font-size: 90%;
+  	font-weight: bold;
+  	color: rgb(209,209,217);
+  	text-shadow: 0 -1px 2px rgba(0,0,0,.2);
+  	padding: .5em 1em;
+  	border-radius: 10px;
+  	background: linear-gradient(rgb(110,112,120), rgb(81,81,86)) rgb(110,112,120);
+  	box-shadow:
+  	 0 1px rgba(255,255,255,.2) inset,
+  	 0 3px 5px rgba(0,1,6,.5),
+  	 0 0 1px 1px rgba(0,1,6,.2);
+  	transition: .2s ease-in-out;
+}
+
+thead{
+	font-weight: bold;
+}
+
+body{
+	text-align: center;
+}
+
+#timer{
+	width: 250px;
+	height: 50px;
+	font-family: cursive;
+  	font-size: 35px;
+  	font-weight: bold;
+  	color: rgb(209,209,217);
+  	text-shadow: 0 -1px 2px rgba(0,0,0,.2);
+  	border-radius: 10px;
+  	background: linear-gradient(rgb(110,112,120), rgb(81,81,86)) rgb(110,112,120);
+  	box-shadow:
+  	 0 1px rgba(255,255,255,.2) inset,
+  	 0 3px 5px rgba(0,1,6,.5),
+  	 0 0 1px 1px rgba(0,1,6,.2);
+  	transition: .2s ease-in-out;
+}
+
+@keyframes rolling{
+	0% {bottom: -50px;}
+	25% {bottom: 10px;}
+	75% {bottom: 10px;}
+	100% {bottom: -50px;}
+}
+
+#herdInst{
+	position: fixed;
+	width: 400px;
+	height: 50px;
+	bottom: 10px;
+	right: 10px;
+	font-size: 15px;
+	animation-name: rolling;
+	animation-duration: 5s;
+	color: rgb(209,209,217);
+  	text-shadow: 0 -1px 2px rgba(0,0,0,.2);
+  	border-radius: 10px;
+  	background: linear-gradient(rgb(110,112,120), rgb(81,81,86)) rgb(110,112,120);
+  	box-shadow:
+  	 0 1px rgba(255,255,255,.2) inset,
+  	 0 3px 5px rgba(0,1,6,.5),
+  	 0 0 1px 1px rgba(0,1,6,.2);
+  	transition: .2s ease-in-out;
+}
+
+#iconAmazon{
+	position: absolute;
+	width: 40px;
+	bottom: 6px;
+	right: 350px;
+}
+
+#flag{
+	height: 30px;
+}
+
+button{
+	position: relative;
+  	display: inline-block;
+  	font-family: cursive;
+  	font-size: 90%;
+  	font-weight: bold;
+  	color: rgb(209,209,217);
+  	text-shadow: 0 -1px 2px rgba(0,0,0,.2);
+  	padding: .5em 1em;
+  	border-radius: 10px;
+  	background: linear-gradient(rgb(110,112,120), rgb(81,81,86)) rgb(110,112,120);
+  	box-shadow:
+  	 0 1px rgba(255,255,255,.2) inset,
+  	 0 3px 5px rgba(0,1,6,.5),
+  	 0 0 1px 1px rgba(0,1,6,.2);
+  	transition: .2s ease-in-out;
+}
+

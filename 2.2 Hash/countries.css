@@ -1,0 +1,30 @@
+table{
+	margin: auto;
+	font-family: cursive;
+	text-align: center;
+  	font-size: 90%;
+  	font-weight: bold;
+  	color: rgb(209,209,217);
+  	text-shadow: 0 -1px 2px rgba(0,0,0,.2);
+  	padding: .5em 1em;
+  	border-radius: 10px;
+  	background: linear-gradient(rgb(110,112,120), rgb(81,81,86)) rgb(110,112,120);
+  	box-shadow:
+  	 0 1px rgba(255,255,255,.2) inset,
+  	 0 3px 5px rgba(0,1,6,.5),
+  	 0 0 1px 1px rgba(0,1,6,.2);
+  	transition: .2s ease-in-out;
+}
+
+thead{
+	font-weight: bold;
+}
+
+img{
+  height: 30px;
+}
+
+p{
+  text-align: center;
+  font-family:  Roboto,Arial,Helvetica,sans-serif;
+}

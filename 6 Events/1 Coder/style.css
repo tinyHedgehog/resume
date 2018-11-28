@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+}
+
+textarea{
+	width: 300px;
+	height: 150px;
+}
+
+div.coder{
+	margin-left: auto;
+    margin-right: auto;
+	width: 700px;
+	border: solid;
+	border-color: rgba(0,153,50,1);
+	background-color: rgba(152, 255, 152, 1);
+	text-align: center;
+	border-radius: 15px; 
+	padding: 10px;
+}
+
+.coder .buttons1{
+	border-top: solid 1px silver;
+	width: 70px;
+	height: 30px;
+	margin: 10px;
+}
+
